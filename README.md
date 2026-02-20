@@ -25,10 +25,20 @@
 
 ---
 
-
 ![Snake Animation](https://raw.githubusercontent.com/soyluAkademi/soyluAkademi/output/github-snake.svg)
 
 ---
 
-### 📫 Contact & Platforms
-[Udemy Instructor Profile](https://www.udemy.com/user/sebahattin-soylu/) | [LinkedIn](https://www.linkedin.com/in/sebahattinsoylu/).
+<h3 align="center">📫 Contact & Platforms</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebahattin-soylu-739355151/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.udemy.com/user/sebahattin-soylu/">
+    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
+  </a>
+  <a href="mailto:contact@sebahattinsoylu.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
