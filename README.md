@@ -1,8 +1,9 @@
 # Hello World 😊👋
 
 * 🌱 My name is **Sebahattin Soylu**.
-* 🇹🇷 From Turkey
+* 🇹🇷 From Turkey.
 * 💻 I am a professional **Game Developer** and **Lead Instructor** specializing in deep-level game programming.
+* 🛠️ I possess advanced, professional-grade expertise in the **Unity** engine, focusing on complex game mechanics and architectural optimization.
 * 📚 Beyond software development, I am a dedicated educator with comprehensive training courses published on **BTK Akademi** and **Udemy**.
 * 🎮 I focus on advanced game engine architectures and creating high-quality educational content for aspiring developers.
 
