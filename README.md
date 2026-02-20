@@ -8,8 +8,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soyluAkademi&color=blue&style=flat-square" alt="Profile views" />
 </p>
