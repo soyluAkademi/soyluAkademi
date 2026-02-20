@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello World 😊👋
 
-<!--
-**soyluAkademi/soyluAkademi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌱 My name is **Sebahattin Soylu**.
+* 🇹🇷 From Turkey
+* 💻 I am a professional **Game Developer** and **Lead Instructor** specializing in deep-level game programming.
+* 📚 Beyond software development, I am a dedicated educator with comprehensive training courses published on **BTK Akademi** and **Udemy**.
+* 🎮 I focus on advanced game engine architectures and creating high-quality educational content for aspiring developers.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soyluAkademi&color=blue&style=flat-square" alt="Profile views" />
+</p>
+
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-one.vercel.app/api?username=soyluAkademi&show_icons=true&theme=radical" alt="Sebahattin's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=soyluAkademi&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
+---
+
+
+![Snake Animation](https://raw.githubusercontent.com/soyluAkademi/soyluAkademi/output/github-snake.svg)
+
+---
+
+### 📫 Contact & Platforms
+[Udemy Instructor Profile](https://www.udemy.com/user/sebahattin-soylu/) | [LinkedIn](https://www.linkedin.com/in/sebahattinsoylu/).
