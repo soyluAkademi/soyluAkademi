@@ -39,7 +39,10 @@
   <a href="https://www.udemy.com/user/sebahattin-soylu/">
     <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
   </a>
-  <a href="mailto:contact@sebahattinsoylu.com">
+  <a href="https://www.btkakademi.gov.tr/portal/trainer/2850">
+    <img src="https://img.shields.io/badge/BTK_Akademi-0054A5?style=for-the-badge&logo=googlescholar&logoColor=white" alt="BTK Akademi" />
+  </a>
+  <a href="mailto:sebahattinsoylu79@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
